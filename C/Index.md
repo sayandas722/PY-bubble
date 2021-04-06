@@ -1,3 +1,3 @@
 # Sorts Available:
-* [Bubble]()
-* [Selection]()
+* [Bubble Sort](Bubble.c)
+* [Selection Sort](Selection.c)
