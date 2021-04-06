@@ -31,8 +31,8 @@ void main()
 	printf("Menu\n1) Bubble Sort\n2) Selection\n3) Insertion\n4) Quick\n5) Merge\n6) Heap\nEnter the choice=> ");
 	scanf("%d",&ch);
 	fflush(stdin);
-  bubble(a,n);
-  printf("After Sort\n");
+  	bubble(a,n);
+  	printf("After Sort\n");
 	for(i=0;i<n;i++)
 		printf("%d ",a[i]);
 }
