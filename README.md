@@ -9,7 +9,7 @@
 * [JAVA](Java/Index.md)
 * [Python](Python/Index.md)
 --------------------------------------
-### Before making any Contribution make sure you read the [Rules and Regulations](Rules_and_regulation.md) for making a PR.
+### Before making any Contribution make sure you read the [Rules and Regulations](Rules_and_regulations.md) for making a PR.
 ----------------------------------------
 ### New To GitHub??
 * [Intro to GitHub](https://youtu.be/wTTek8P2VB4)
